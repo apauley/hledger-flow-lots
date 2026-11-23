@@ -5,5 +5,5 @@
 
 ; Example. Remove its leading semicolons and adapt it.
 ; 2026-01-01 Walleta opening balance
-;     assets:Wallet:WalletA  100.00 TESTCUR
+;     assets:WalletA  100.00 TESTCUR
 ;     equity:opening-closing

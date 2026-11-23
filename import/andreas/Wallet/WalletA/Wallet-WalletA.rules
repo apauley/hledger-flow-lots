@@ -4,8 +4,11 @@
 skip 1
 fields date, description, amount
 currency TESTCUR
-account1 assets:Wallet:WalletA
+account1 assets:WalletA
 account2 expenses:unknown
 
 if Example
  account2 expenses:example
+
+if %description ^Transfer from WalletB$
+ account2 assets:transfers

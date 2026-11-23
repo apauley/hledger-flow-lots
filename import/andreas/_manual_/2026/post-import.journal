@@ -6,5 +6,5 @@
 
 ; Example. Remove its leading semicolons and adapt it.
 ; 2026-01-02 Move emergency savings back to WalletA
-;     assets:Wallet:WalletA  50.00 TESTCUR
+;     assets:WalletA  50.00 TESTCUR
 ;     assets:otherbank:savings

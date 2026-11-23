@@ -31,7 +31,7 @@ Use `hledger-flow status --json` when reading status programmatically.
    Use `hledger-flow import` for a full rebuild. Both commands maintain the include files.
    Changes made directly in `2-preprocessed/`, `3-journal/` or generated indexes can be lost.
 2. Run `hledger -f all-years.journal check` to validate the assembled journal.
-   Use `hledger -f all-years.journal register assets:Wallet:WalletA` to inspect
+   Use `hledger -f all-years.journal register assets:WalletA` to inspect
    postings (substitute the actual account), and `hledger -f all-years.journal balance`
    to compare balances with the statements.
 3. Run `hledger-flow report` to refresh `reports/`, then check `hledger-flow status`

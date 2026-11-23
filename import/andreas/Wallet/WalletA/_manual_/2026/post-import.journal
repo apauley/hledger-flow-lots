@@ -6,4 +6,4 @@
 
 ; Example. Remove its leading semicolons and adapt it.
 ; 2026-01-02 Check balance after the sample statement
-;     assets:Wallet:WalletA  0 TESTCUR = 0 TESTCUR
+;     assets:WalletA  0.00 TESTCUR = 0.00 TESTCUR

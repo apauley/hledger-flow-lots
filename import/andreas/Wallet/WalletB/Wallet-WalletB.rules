@@ -1,0 +1,11 @@
+skip 1
+fields date, description, amount1, transferred, fee
+currency TESTCUR
+account1 assets:WalletB
+
+# Amount is the total wallet debit, including the network fee.
+if %description ^Transfer to WalletA$
+ account2 assets:transfers
+ amount2 %transferred
+ account3 expenses:fees
+ amount3 %fee

@@ -7,4 +7,4 @@
 ; Example. Remove its leading semicolons and adapt it.
 ; 2026-01-01 Move money from WalletA to savings
 ;     assets:Wallet:savings  25.00 TESTCUR
-;     assets:Wallet:WalletA
+;     assets:WalletA
