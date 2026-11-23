@@ -16,7 +16,7 @@ commodity 1,000.00 INR  ; alias: ₹
 commodity 1.00000000 BTC  ; alias: 100000000 SAT, alias: ₿
 commodity 1. SAT
 
-commodity 1.00 TESTCUR
+commodity 1.00 TESTCUR  ; lots:
 
 ; Account types. https://hledger.org/dev/hledger.html#account-types
 account assets                  ; type: A
