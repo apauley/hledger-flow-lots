@@ -8,3 +8,7 @@
 ; 2026-01-01 Move money from WalletA to savings
 ;     assets:Wallet:savings  25.00 TESTCUR
 ;     assets:WalletA
+
+2026-01-02 Clearing account deposit
+    assets:transfers  0.10 TESTCUR {9.00 USD}
+    equity:opening-closing
