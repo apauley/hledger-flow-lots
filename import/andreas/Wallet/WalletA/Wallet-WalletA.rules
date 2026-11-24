@@ -10,5 +10,5 @@ account2 expenses:unknown
 if Example
  account2 expenses:example
 
-if %description ^Transfer from WalletB$
+if %description ^10:05:00 Transfer from WalletB$
  account2 assets:transfers
