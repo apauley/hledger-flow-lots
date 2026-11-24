@@ -8,3 +8,7 @@
 ; 2026-01-02 Sweep savings into WalletA
 ;     assets:WalletA  12.00 TESTCUR
 ;     assets:Wallet:savings
+
+2026-01-03 WalletC purchase
+    assets:WalletC  0.03 TESTCUR {7.00 USD} @ 7.00 USD
+    assets:cash    -0.21 USD
