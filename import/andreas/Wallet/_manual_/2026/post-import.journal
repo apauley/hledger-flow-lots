@@ -8,3 +8,7 @@
 ; 2026-01-02 Sweep savings into WalletA
 ;     assets:WalletA  12.00 TESTCUR
 ;     assets:Wallet:savings
+
+2026-01-03 WalletD receipt
+    assets:WalletD    0.01 TESTCUR
+    assets:transfers  -0.01 TESTCUR

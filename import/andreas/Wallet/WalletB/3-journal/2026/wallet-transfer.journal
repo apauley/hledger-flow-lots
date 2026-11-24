@@ -1,5 +1,5 @@
 2026-01-03 Transfer to WalletA
-    assets:WalletB      -0.11 TESTCUR
-    assets:transfers     0.10 TESTCUR
+    assets:WalletB      -0.12 TESTCUR
+    assets:transfers     0.11 TESTCUR
     expenses:fees        0.01 TESTCUR
 
