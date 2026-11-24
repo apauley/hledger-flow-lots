@@ -7,3 +7,7 @@
 ; Example. Remove its leading semicolons and adapt it.
 ; 2026-01-02 Check balance after the sample statement
 ;     assets:WalletA  0.00 TESTCUR = 0.00 TESTCUR
+
+2026-01-03 WalletC purchase
+    assets:WalletC  0.03 OTHER {7.00 USD} @ 7.00 USD
+    assets:cash    -0.21 USD
